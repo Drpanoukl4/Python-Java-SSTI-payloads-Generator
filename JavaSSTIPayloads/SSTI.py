@@ -2,7 +2,7 @@
 
 def payloadGen():
 
-        command = "whoami" # Put Command Here
+        command = "Command Here" # Put Command Here
         convert = []
 
         for x in command:
